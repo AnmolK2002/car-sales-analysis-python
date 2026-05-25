@@ -23,6 +23,7 @@ The goal of the project is to explore sales trends, calculate revenue, and visua
 - Pandas
 - NumPy
 - Matplotlib
+- PgAdmin
 
 ---
 
